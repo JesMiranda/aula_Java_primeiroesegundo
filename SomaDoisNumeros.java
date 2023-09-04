@@ -13,8 +13,8 @@ public class SomaDoisNumeros{
     primeiroOperando = leitor.nextDouble();
     System.out.println("Digite o primeiro operando");
     segundoOperando = leitor.nextDouble();
-
     //procesamento
+    resultado = primeiroOperando  + segundoOperando;  
 
     //saída
   } 
